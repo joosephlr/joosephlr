@@ -1,4 +1,3 @@
-- 👋 Olá, meu nome é José Lucas. Tenho 26 anos, trabalho como desenvolvedor full stack .NET e também estudante na área de programação e desenvolvimento de softwares.
-- 👀 Eu tenho interesse em várias tecnologias, porém no momento estou estudando mais o mundo da Microsoft, com .Net.
-- 🌱 Estou atualmente estudando sobre a linguagem de programação c# e também um pouco sobre a framework Angular, tentando melhorar meu lado frontend.
+- 👋 Olá, meu nome é José Lucas. Tenho 28 anos, trabalho como desenvolvedor full stack .NET e também estudante na área de programação e desenvolvimento de softwares.
+- 👀 Eu tenho interesse em várias tecnologias, porém no momento estou estudando mais o mundo da Microsoft, com .Net, e Angular para o front-end.
 - 📫 Você consegue me contatar pelo e-mail joselucas1298@gmail.com.
